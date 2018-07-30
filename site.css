@@ -1,0 +1,68 @@
+.class{  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;}
+body{ 
+    background-color: palegreen;   
+}
+
+#SkillsT{
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman';
+
+}
+#Skills{
+    display: flex;
+    justify-content: center;
+    font-family: 'Trebuchet MS';
+    border: 9mm;border-color: rgb(48, 35, 30);
+   background-color: salmon;  font-size: 20px;
+  
+  
+}
+#ImgsT{
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman';
+}
+#images{
+    display: flex;
+    justify-content: center;
+    font-family: 'Trebuchet MS';
+}
+
+#Port{
+    display: flex;
+    justify-content: center;
+    font-family: 'Trebuchet MS';
+}
+#Portfolio{
+    display: flex;
+    justify-content: center;
+    font-family: 'Trebuchet MS';
+    border: 9mm;
+   background-color: salmon;  font-size: 20px;
+}
+a{
+    background-color: whitesmoke;
+    color:indigo;
+    font-weight: bold;
+    font-size: 17px;
+    display: flex;
+    justify-content: center;
+}
+#AboutT{
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman';
+}
+#About{
+    display: flex;
+    justify-content: center;
+    font-family: 'Trebuchet MS';
+    border: 100%;
+   background-color: salmon;  font-size: 18px;
+}
+
+
